@@ -1,4 +1,5 @@
-/* My name is Mengya Qiu, and I used about 3 days to complete this project. 
+/* 
+My name is Mengya Qiu, and I used about 3 days to complete this project. 
 Create a new spaceship type that's smaller, moves faster, and is worth more points (20)
 Implement a simultaneous two-player mode (30)
 Create a new scrolling tile sprite for the background (5)
